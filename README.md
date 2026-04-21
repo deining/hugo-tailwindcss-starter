@@ -16,7 +16,7 @@
 <h3 align="center">Hugo TailwindCSS Starter</h3>
 
   <p align="center">
-    A starter project for Hugo and TailwindCSS v4.1
+    A starter project for Hugo and TailwindCSS v4.2
     <br />
     Ready to deploy in Vercel, GitHub Pages or Netlify 🚀
     <br />
@@ -44,7 +44,7 @@ This starter project integrates **Hugo** with **TailwindCSS v4.1** and is ready 
 
 ### Features
 
-- Integration of Hugo and TailwindCSS v4.1
+- Integration of Hugo and TailwindCSS v4.2
 - Easy deployment with GitHub Pages, Netlify or Vercel
 - Starter templates for rapid development
 
@@ -55,7 +55,7 @@ This starter project integrates **Hugo** with **TailwindCSS v4.1** and is ready 
 Ensure you have the following installed:
 
 - [Hugo](https://gohugo.io/installation/) (Extended Edition - at least v0.146.x)
-- [Node.js](https://nodejs.org/en/download) (at least v18.x)
+- [Node.js](https://nodejs.org/en/download) (at least v20.x)
 - For deployment (optional):
     - [Vercel Account](https://vercel.com/signup) or
     - [Netlify Account](https://app.netlify.com/signup)
@@ -107,7 +107,7 @@ See the [open issues](https://github.com/odhyp/hugo-tailwindcss-starter/issues) 
 1. Create a local branch `gh-pages` and push this branch to your remote repo:
 
 ```
-$ git checkout -b gh-pages
+$ git switch -c gh-pages
 $ git push --set-upstream origin gh-pages
 ```
 
@@ -127,7 +127,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/YourFeature`)
+2. Create your Feature Branch (`git switch -c feature/YourFeature`)
 3. Commit your Changes (`git commit -m 'Add some YourFeature'`)
 4. Push to the Branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
