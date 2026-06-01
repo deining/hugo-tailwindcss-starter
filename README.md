@@ -16,7 +16,7 @@
 <h3 align="center">Hugo TailwindCSS Starter</h3>
 
   <p align="center">
-    A starter project for Hugo and TailwindCSS v4.2
+    A starter project for Hugo and TailwindCSS v4.3
     <br />
     Ready to deploy in Vercel, GitHub Pages or Netlify 🚀
     <br />
@@ -34,7 +34,7 @@
 
 ## Welcome
 
-This starter project integrates **Hugo** with **TailwindCSS v4.1** and is ready for deployment on **Vercel**, **GitHub Pages** or **Netlify**.
+This starter project integrates **Hugo** with **TailwindCSS v4.3** and is ready for deployment on **Vercel**, **GitHub Pages** or **Netlify**.
 
 ### Built With
 
@@ -55,7 +55,7 @@ This starter project integrates **Hugo** with **TailwindCSS v4.1** and is ready 
 Ensure you have the following installed:
 
 - [Hugo](https://gohugo.io/installation/) (Extended Edition - at least v0.146.x)
-- [Node.js](https://nodejs.org/en/download) (at least v20.x)
+- [Node.js](https://nodejs.org/en/download) (at least v22.x)
 - For deployment (optional):
     - [Vercel Account](https://vercel.com/signup) or
     - [Netlify Account](https://app.netlify.com/signup)
