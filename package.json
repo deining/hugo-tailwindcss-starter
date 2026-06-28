@@ -1,6 +1,6 @@
 {
   "name": "hugo-tailwindcss-starter",
-  "description": "Starter project for Hugo and TailwindCSS v4.1, ready to deploy in Netlify or Vercel!",
+  "description": "Starter project for Hugo and TailwindCSS v4.3, ready to deploy in Netlify or Vercel!",
   "version": "1.2.1-dev",
   "license": "MIT",
   "author": "Odhy Pradhana (odhyp.com)",
@@ -25,9 +25,9 @@
     "watch": "hugo server --disableFastRender --navigateToChanged"
   },
   "dependencies": {
-    "@tailwindcss/cli": "^4.2.2",
+    "@tailwindcss/cli": "^4.3.0",
     "prettier": "^3.8.1",
-    "prettier-plugin-tailwindcss": "^0.7.2",
-    "tailwindcss": "^4.2.1"
+    "prettier-plugin-tailwindcss": "^0.8.0",
+    "tailwindcss": "^4.3.0"
   }
 }
